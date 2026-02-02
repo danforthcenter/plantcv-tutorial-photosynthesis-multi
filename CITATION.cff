@@ -1,0 +1,17 @@
+cff-version: 1.0.0
+authors:
+- family-names: Fischer
+  given-names: Annika
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0009-0009-2916-8046"
+- family-names: Murphy
+  given-names: Katherine
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-8891-4274"
+- family-names: Elliott
+  given-names: Caitlyn
+  affiliation: Donald Danforth Plant Science Center
+title: "PlantCV multi-object photosynthesis tutorial"
+version: 1.1
+doi: 
+date-released: 2026
